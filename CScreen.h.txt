@@ -20,5 +20,5 @@ private:
     HANDLE hConsoleOutput;
     CONSOLE_CURSOR_INFO oldCursorInfo, curCursorInfo;
     WORD oldTextAttr;
-};
+}; 
 #endif // __CSCREEN_H__
